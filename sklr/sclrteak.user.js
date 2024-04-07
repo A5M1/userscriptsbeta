@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name         scrolller.com tweak
-// @version      0.38
+// @version      0.39
+// @license      ABGSLV2 | https://rentry.co/abgslv2
 // @namespace    usc.xyz.abby0666
 // @updateURL    https://github.com/https433/userscriptsbeta/raw/main/sklr/sclrteak.user.js
 // @downloadURL  https://github.com/https433/userscriptsbeta/sklr/sclrteak.user.js
