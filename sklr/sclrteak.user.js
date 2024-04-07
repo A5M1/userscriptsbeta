@@ -1,7 +1,11 @@
 // ==UserScript==
 // @name         scrolller.com tweak
-// @namespace    http://abby0666.xyz/usc
-// @version      0.35
+// @version      0.38
+// @namespace    usc.xyz.abby0666
+// @updateURL    https://github.com/https433/userscriptsbeta/raw/main/sklr/sclrteak.user.js
+// @downloadURL  https://github.com/https433/userscriptsbeta/sklr/sclrteak.user.js
+// @homepage 	 https://abby0666.xyz
+// @source   	 https://github.com/https433/userscriptsbeta/sklr/sclrteak.user.js
 // @description  tweaks scrolller.com/
 // @author       Abnormal666
 // @match        *://scrolller.com/*
