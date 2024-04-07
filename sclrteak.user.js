@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         scrolller.com tweak
 // @namespace    http://abby0666.xyz/usc
-// @version      0.33
+// @version      0.35
 // @description  tweaks scrolller.com/
 // @author       Abnormal666
 // @match        *://scrolller.com/*
 // @match        *://www.scrolller.com/*
 // @run-at       document-start
-// @icon         https://scrolller.com/assets/favicon-16x16.png
+// @icon         https://scrolller.com/assets/apple-touch-icon-120x120.png
 // @grant        unsafeWindow
 // @grant        GM_registerMenuCommand
 // @require      https://code.jquery.com/jquery-3.6.0.min.js
