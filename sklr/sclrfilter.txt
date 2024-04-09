@@ -67,4 +67,7 @@ scrolller.com##div.hJJPMz.sc-eZYNyq:nth-of-type(3)
 scrolller.com##.jHIWns.sc-satoz
 scrolller.com##button.dXnFDF.sc-dNsVcS > div
 scrolller.com##.gcOwsy.sc-eZYNyq
-
+wmcdpt.com##pt-redirect-layer:nth-of-type(2) > [href*="//ctjdwm.com/"]
+scrolller.com##pt-redirect-layer:nth-of-type(2) > [href*="//ctjdwm.com/"]
+wmcdpt.com##pt-redirect-layer:nth-of-type(2) > [href*="//ctjdwm.com/"]
+www.scrolller.com##pt-redirect-layer:nth-of-type(2) > [href*="//ctjdwm.com/"]
