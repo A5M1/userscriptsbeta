@@ -1,4 +1,5 @@
 ||vcmdiawe.com/
+scrolller.com##div.hJJPMz.sc-eZYNyq:nth-of-type(3)
 scrolller.com##.hbbenA.sc-satoz > .fJZqNH.sc-eNSrOW > .gKmvFl.sc-fsvrbR > .bILdxK.sc-bJBgwP
 scrolller.com##.hGNHOU.sc-jOnpCo > .jsuBif.sc-kFWlue
 scrolller.com##.hbbenA.sc-satoz > .fJZqNH.sc-eNSrOW > .hovyJu.sc-deXhhX > .iCyYmi.sc-dQEtJz > svg > path
