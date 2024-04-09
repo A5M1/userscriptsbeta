@@ -10,7 +10,6 @@ scrolller.com###root > div.app--desktop > div.popup.popup--sticky.popup--dark.po
 scrolller.com###root > div.app--desktop > div.popup.popup--sticky.popup--dark.popup--zIndex:first-child > div.popup__overlay:first-child
 scrolller.com##.imrPPc.sc-hYmls
 scrolller.com##.dxUSuH.sc-lbJcrp
-||wmcdpt.com/live-stream/f
 scrolller.com###root > div.app--desktop > div.app-page:first-child > div:nth-child(2) > div.fullscreen-view > div.sc-cMa-dbN.hungNT > div.sc-fUBkdm.jKFldk:nth-child(2) > div.sc-dWZqqJ.gyedbM:first-child > div.sc-isRoRg.cqsGVd > div.sc-satoz.iJXfMv:last-child > div.sc-eNSrOW.fJZqNH:first-child > div.sc-deXhhX.hovyJu:last-child > button.sc-kCMKrZ.hhIKmJ:last-child > div.sc-dJiZtA.iWVCnz
 scrolller.com###root > div.app--desktop > div.app-page:first-child > div:nth-child(2) > div.fullscreen-view > div.sc-cMa-dbN.hungNT > div.sc-fUBkdm.jKFldk:nth-child(2) > div.sc-dWZqqJ.gyedbM:first-child > div.sc-isRoRg.cqsGVd > div.sc-satoz.iJXfMv:last-child > div.sc-eNSrOW.fJZqNH:first-child > div.sc-deXhhX.hovyJu:last-child > button.sc-dQEtJz.iCyYmi:nth-child(4) > div:last-child
 scrolller.com###root > div.app--desktop > div.app-page:first-child > div:nth-child(2) > div.fullscreen-view > div.sc-cMa-dbN.hungNT > div.sc-fUBkdm.jKFldk:nth-child(2) > div.sc-dWZqqJ.gyedbM:first-child > div.sc-isRoRg.cqsGVd > div.sc-satoz.iJXfMv:last-child > div.sc-eNSrOW.fJZqNH:first-child > div.sc-fsvrbR.gKmvFl:first-child > div.sc-bJBgwP.bILdxK:first-child
