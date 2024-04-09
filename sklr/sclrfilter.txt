@@ -35,12 +35,12 @@ scrolller.com##div.KvlWe.sc-cVzyXs:nth-of-type(2) > .dgcdGa.sc-ePDLzJ > .lbZZkd.
 scrolller.com##div.KvlWe.sc-cVzyXs:nth-of-type(2) > .dgcdGa.sc-ePDLzJ > .lbZZkd.sc-bVVIoq > .cCBpqn.sc-dPZUQH > .joWVxJ.sc-ERObt > button.dXnFDF.sc-dNsVcS:nth-of-type(3) > svg
 scrolller.com##.bZoqAM.sc-eNSrOW
 scrolller.com##.euIyiq.sc-fBdRDi
-
+scrolller.com##.kODlME.sc-czkgLR
 scrolller.com##.fLsWYb.bGwRva.sc-dSCufp.sc-ddjGPC
 scrolller.com##.kGVIgU.sc-jnOGJG
 scrolller.com##button.icon-button:nth-of-type(4)
 scrolller.com##button.lnVXBd.sc-dBmzty:nth-of-type(2)
-
+scrolller.com##.dhhUsi.sc-knuQbY
 scrolller.com##.jHIWns.sc-satoz
 scrolller.com##button.dXnFDF.sc-dNsVcS > div
 scrolller.com##.gcOwsy.sc-eZYNyq
