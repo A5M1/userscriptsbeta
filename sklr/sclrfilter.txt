@@ -10,7 +10,9 @@ scrolller.com##.hbbenA.sc-satoz > .fJZqNH.sc-eNSrOW > .hovyJu.sc-deXhhX > .iCyYm
 scrolller.com##.hbbenA.sc-satoz > .fJZqNH.sc-eNSrOW > .hovyJu.sc-deXhhX > .iCyYmi.sc-dQEtJz > div
 scrolller.com###object_container_0 > iframe:last-child
 ||wmcdpt.com/live-stream/
-||images.scrolller.com/atto/search
+||images.scrolller.com/atto/search/*.png
+||images.scrolller.com/atto/search/*.jpg
+scrolller.com##div.fwCAIq.sc-eBHhsj:nth-of-type(1)
 ||images.scrolller.com/*o/which-asshole-revolverwingstudios-pokemon-cbnksl8zef-*.jpg
 scrolller.com##.gUHNho.sc-lnPyaJ > .eTSRGh.sc-eulNck
 scrolller.com###root > div.app--desktop > div.popup.popup--sticky.popup--dark.popup--zIndex:first-child > div.popup__box:last-child > div._container_9q6nq_1
