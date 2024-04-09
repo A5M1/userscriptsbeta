@@ -1,4 +1,5 @@
 ||vcmdiawe.com/
+scrolller.com##.vertical-view__item > .vertical-overlay > .vertical-overlay__container
 ||scrolller.com/assets/ads/search/community-*-desktop.png
 scrolller.com##.lmGjAy.sc-eulNck > .cjuQfg.sc-dExYaf
 scrolller.com##div.hJJPMz.sc-eZYNyq:nth-of-type(3)
