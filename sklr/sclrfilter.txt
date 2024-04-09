@@ -41,7 +41,7 @@ scrolller.com##.fLsWYb.bGwRva.sc-dSCufp.sc-ddjGPC
 scrolller.com##.kGVIgU.sc-jnOGJG
 scrolller.com##button.icon-button:nth-of-type(4)
 scrolller.com##button.lnVXBd.sc-dBmzty:nth-of-type(2)
-scrolller.com##div.bABTbI.sc-dExYaf:nth-of-type(3)
+
 scrolller.com##.dkZsuI.sc-eZYNyq
 scrolller.com##div.hJJPMz.sc-eZYNyq:nth-of-type(3)
 scrolller.com##.jHIWns.sc-satoz
