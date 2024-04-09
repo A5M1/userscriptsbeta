@@ -9,6 +9,7 @@ scrolller.com##.hbbenA.sc-satoz > .fJZqNH.sc-eNSrOW > .hovyJu.sc-deXhhX > .iCyYm
 scrolller.com##.hbbenA.sc-satoz > .fJZqNH.sc-eNSrOW > .hovyJu.sc-deXhhX > .iCyYmi.sc-dQEtJz > div
 scrolller.com###object_container_0 > iframe:last-child
 ||wmcdpt.com/live-stream/
+||images.scrolller.com/atto/search
 scrolller.com###root > div.app--desktop > div.popup.popup--sticky.popup--dark.popup--zIndex:first-child > div.popup__box:last-child > div._container_9q6nq_1
 scrolller.com###root > div.app--desktop > div.popup.popup--sticky.popup--dark.popup--zIndex:first-child > div.popup__overlay:first-child
 scrolller.com##.imrPPc.sc-hYmls
